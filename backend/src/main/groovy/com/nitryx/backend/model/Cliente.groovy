@@ -24,5 +24,5 @@ class Cliente {
         this.nome = nome
     }
 
-    Cliente(){}
+    Cliente() {}
 }
